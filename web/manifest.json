@@ -1,0 +1,35 @@
+{
+    "name": "Ринг — боксёрские принадлежности",
+    "short_name": "Ринг",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#8E1B2C",
+    "theme_color": "#8E1B2C",
+    "description": "Магазин боксерских принадлежностей: каталог, поиск, фильтры и пагинация.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
